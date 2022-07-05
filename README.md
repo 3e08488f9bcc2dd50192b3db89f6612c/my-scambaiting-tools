@@ -9,8 +9,14 @@ Open cmd.exe
 type tree.exe
 ```
 
-## Spy Command
+## Spy
 Simple discord spyware tool. Usage:
 ```
 spy.py [token]
+```
+
+## Phish Flood
+Tool which flood a website login page. Usage:
+```
+Phish Flood.py
 ```
