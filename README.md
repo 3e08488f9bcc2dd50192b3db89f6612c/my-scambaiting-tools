@@ -20,3 +20,9 @@ Tool which flood a website login page. Usage:
 ```
 Phish Flood.py
 ```
+
+## Discord Invite Generator
+Tool where generate discord invites. Useful for get discord scam servers.
+```
+Discord Invite Generator.py
+```
