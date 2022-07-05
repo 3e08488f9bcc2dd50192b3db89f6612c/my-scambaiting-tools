@@ -4,25 +4,14 @@ A collection of my scambaiting Tools.
 ## Tree Command
 An implementation of cmd "tree" command, which randomly send fake filenames. Usage:
 
-```
-Open cmd.exe
-type tree.exe
-```
-
 ## Spy
 Simple discord spyware tool. Usage:
-```
-spy.py [token]
-```
 
 ## Phish Flood
 Tool which flood a website login page. Usage:
-```
-Phish Flood.py
-```
 
 ## Discord Invite Generator
 Tool where generate discord invites. Useful for get discord scam servers. Usage:
-```
-Discord Invite Generator.py
-```
+
+## Downloader
+Download all files from given path recursively. Useful if you have access on scammer's domain.
