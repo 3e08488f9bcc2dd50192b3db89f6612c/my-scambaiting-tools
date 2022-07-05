@@ -22,7 +22,7 @@ Phish Flood.py
 ```
 
 ## Discord Invite Generator
-Tool where generate discord invites. Useful for get discord scam servers.
+Tool where generate discord invites. Useful for get discord scam servers. Usage:
 ```
 Discord Invite Generator.py
 ```
